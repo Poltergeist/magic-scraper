@@ -1,0 +1,16 @@
+{
+  "name": "magic-scraper",
+  "version": "1.0.0",
+  "description": "Scrape Magic Wallpaper form wizards page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scraper",
+    "node",
+    "cli"
+  ],
+  "author": "Poltergeist",
+  "license": "MIT"
+}
