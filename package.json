@@ -4,6 +4,7 @@
   "description": "Scrape Magic Wallpaper form wizards page",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -12,5 +13,9 @@
     "cli"
   ],
   "author": "Poltergeist",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ent": "^2.2.0",
+    "request": "^2.87.0"
+  }
 }
